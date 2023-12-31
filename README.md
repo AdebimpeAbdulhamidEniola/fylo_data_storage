@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 Here's the desktop design
-![](screenshots/desktop design.png)
+![](screenshots/desktop.png)
 
 Here's the mobile design
 ![](screenshots/mobile.png)
