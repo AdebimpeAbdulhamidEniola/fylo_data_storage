@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+<!--Google fonts-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+<!--End of google fonts-->
+  
+  <title>Frontend Mentor | Fylo data storage component</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+  <main class="container">
+    <div class="fylo">
+      <div class = "top-layer">
+        <img src="images/logo.svg" alt="fylo logo">
+      </div>
+      <div class="second-layer">
+        <div><img src="images/icon-document.svg"></div>
+        <div><img src="images/icon-folder.svg"></div>
+        <div><img src="images/icon-upload.svg"></div>
+      </div>
+    </div>
+    <div class="flex-container">
+      <p>You've used <span>815GB</span> of your storage</p>
+      <progress value="70" max="100"></progress>
+      <div class="inner-flex">
+        <span>0 GB</span>
+        <span>1000 GB</span>
+      </div>
+    </div>
+    <div class="left-storage"><span>185</span><span>GB left</span></div>
+  </main>
+</body>
+</html>
