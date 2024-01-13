@@ -45,4 +45,4 @@ Here's the mobile design
 ## Author
 
 - Whatsapp - +2348109419385
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AdebimpeAbdulhamidEniola](https://www.frontendmentor.io/profile/AdebimpeAbdulhamidEniola)
